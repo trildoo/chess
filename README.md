@@ -1,1 +1,1 @@
-this is just a sma;; project i am currenlt working on.
+this is just a small project i am currenlt working on.
